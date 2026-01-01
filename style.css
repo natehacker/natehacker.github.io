@@ -11,6 +11,27 @@
     background-size: 60%
 }
 
+.skill-label {
+    color: #ffffff;
+  }
+
+  .tech-stack-box {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+  }
+  
+  .skill-label {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0 1px 8px rgba(255, 255, 255, 0.25);
+  }
+
+  
+
 #preloader,
 .invertapplied,
 .invertsettinglabel {
